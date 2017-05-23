@@ -5,11 +5,12 @@ The state of inventaire.io experiments on a federated database on books using Wi
 * the **web app**: [inventaire.io](https://inventaire.io)
 * the **open database on books**: [data.inventaire.io](https://data.inventaire.io) (this needs an update)
 
-![1](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/1.png)
-![2](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/2.png)
-![3](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/3.png)
-<!-- ![4](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/4.png) -->
-![5](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/5.png)
+<!-- ![1](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/1.png) -->
+![2](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/2.png)
+![3](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/3.png)
+<!-- ![4](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/4.png) -->
+![5](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/5.png)
+![editor](https://raw.githubusercontent.com/inventaire/wikicite/master/screenshots/editor.png)
 
 inventaire.io as a **CC0**-lisence contributive database **completing Wikidata** on books and their editions
 
