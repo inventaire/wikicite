@@ -1,9 +1,3 @@
-<style type="text/css">
-  body{
-    font-family: sans-serif;
-  }
-</style>
-
 # [inventaire.io](https://inventaire.io) presentation Wikicite 2017
 The state of inventaire.io experiments on a federated database on books using Wikidata entities, properties, and data model
 
