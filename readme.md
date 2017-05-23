@@ -1,4 +1,4 @@
-# [inventaire.io](https://inventaire.io) presentation Wikicite 2017
+g# [inventaire.io](https://inventaire.io) presentation Wikicite 2017
 The state of inventaire.io experiments on a federated database on books using Wikidata entities, properties, and data model
 
 **There are two faces to inventaire.io**:
@@ -8,9 +8,8 @@ The state of inventaire.io experiments on a federated database on books using Wi
 ![1](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/1.png)
 ![2](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/2.png)
 ![3](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/3.png)
-![4](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/4.png)
+<!-- ![4](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/4.png) -->
 ![5](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/5.png)
-![6](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/6.png)
 
 inventaire.io as a **CC0**-lisence contributive database **completing Wikidata** on books and their editions
 
