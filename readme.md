@@ -11,7 +11,7 @@ The state of inventaire.io experiments on a federated database on books using Wi
 ![3](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/3.png)
 <!-- ![4](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/4.png) -->
 ![5](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/5.png)
-![editor](https://raw.githubusercontent.com/inventaire/wikicite/gh-pages/screenshots/editor.png)
+![editor](https://tmpshared.maxlath.eu/editor.png)
 
 inventaire.io as a **CC0**-lisence contributive database **completing Wikidata** on books and their editions
 
