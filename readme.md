@@ -1,5 +1,6 @@
 # [inventaire.io](https://inventaire.io) presentation Wikicite 2017
 The state of inventaire.io experiments on a federated database on books using Wikidata entities, properties, and data model
+**[Video](https://www.youtube.com/watch?v=1pMHSghEM7A&t=8h42m52s)**
 
 **There are two faces to inventaire.io**:
 * the **web app**: [inventaire.io](https://inventaire.io)
